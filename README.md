@@ -1,6 +1,6 @@
 # Realtime Blood Bank App
 
-একটি Flutter দিয়ে তৈরি Blood Bank App।
+ Uses Flutter 
 
 ## Features
 - Donor Registration
@@ -8,18 +8,15 @@
 - Location-based Donor Search
 - Blood Request via SMS
 
-## Screenshots
+![Registration](https://github.com/user-attachments/assets/24ee42f0-ac77-495c-a1bc-66aa6c132dd2)
+![Profile](https://github.com/user-attachments/assets/b1ba2d04-9e6d-4595-87f8-f04f1de1cc88)
+![Search Donor](https://github.com/user-attachments/assets/e96b2c34-b40a-433c-ae5c-ad62a1eb08fd)
+![Location](https://github.com/user-attachments/assets/63fc4df2-1d78-4bbc-b9ce-e100b95aa608)
 
-### Login Screen
-![Login Screen](screenshots/login.png)
 
-### Home Screen
-![Home Screen](screenshots/home.png)
 
-### Donor List
-![Donor List](screenshots/donor_list.png)
 
----![1](https://github.com/user-attachments/assets/d741282d-c011-4f70-832e-a069343d417d)
+
 
 
 ## Contact
